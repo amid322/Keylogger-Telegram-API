@@ -47,7 +47,7 @@ def send_logs():
 def send_periodically():
     while True:
         send_logs()
-        time.sleep(60)  # 60 seconds = 10 minutes
+        time.sleep(600)  # 600 seconds = 10 minutes , for testing 
 
 # Start the sender in a background thread
 sender_thread = threading.Thread(target=send_periodically, daemon=True)
