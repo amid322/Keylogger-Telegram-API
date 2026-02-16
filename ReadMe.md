@@ -1,8 +1,8 @@
-# Keylogger - Educational Cybersecurity Project
+# Keylogger integrated with telegram bot API
 
 A simple Python keylogger for educational purposes, demonstrating keyboard event monitoring, file logging, and Telegram integration.
 
-⚠️ **DISCLAIMER: This tool is for educational purposes only. Only use on systems you own or have explicit permission to test. Unauthorized use is illegal.**
+⚠️ **DISCLAIMER: This tool is for educational purposes only. Only use on systems you own or have explicit permission to test.**
 
 ## Features
 
